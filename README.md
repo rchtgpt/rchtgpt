@@ -1,4 +1,8 @@
-### hi
+### tl;dr of my life
+- senior in high school
+- fascinated by math, computers, and people
+- appreciates design ([don't open this link](https://www.behance.net/rchtgpt))
+- likes punctuations, cricket, and dogs (!!!)
 
 <!--
 **dotrachit/dotrachit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
