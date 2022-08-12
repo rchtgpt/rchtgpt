@@ -1,5 +1,5 @@
 ### tl;dr of my life
-- almost done with high school
+- starting college super soon
 - fascinated by math, computers, and people
 - appreciates design ([don't open this link](https://www.behance.net/rchtgpt))
 - likes punctuations, cricket, and dogs (!!!)
