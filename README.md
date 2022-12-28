@@ -1,8 +1,7 @@
 ### tl;dr of my life
-- currently in college
-- fascinated by math, computers, and people
+- currently in college studying computer science, math, and linguistics
 - appreciates design ([don't open this link](https://www.behance.net/rchtgpt))
-- likes punctuations, cricket, and dogs (!!!)
+- likes punctuations, sports, and pets
 
 <!--
 **dotrachit/dotrachit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
