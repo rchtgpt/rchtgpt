@@ -1,7 +1,9 @@
 ### tl;dr of my life
-- currently in college studying computer science, math, and linguistics
-- appreciates design ([don't open this link](https://www.behance.net/rchtgpt))
-- doing research things at the [TID lab](http://tid.gatech.edu/)
+- building options trading interface at Robinhood
+- on a gap from college where i study machine learning and system architecture
+- prev building a multimodal entity extraction system for one of the largest insurance clients at Palantir
+- enjoy sports (pickleball, ping poker, poker)
+- dabble in design ([don't open this link](https://www.behance.net/rchtgpt))
 
 <!--
 **dotrachit/dotrachit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
