@@ -1,8 +1,8 @@
 ### tl;dr of my life
 - building options trading interface at Robinhood
 - on a gap from college where i study machine learning and system architecture
-- prev building a multimodal entity extraction system for one of the largest insurance clients at Palantir
-- enjoy sports (pickleball, ping poker, poker)
+- prev built a multimodal entity extraction system for one of the largest insurance clients at Palantir
+- enjoy sports (pickleball, ping pong, poker)
 - dabble in design ([don't open this link](https://www.behance.net/rchtgpt))
 
 <!--
