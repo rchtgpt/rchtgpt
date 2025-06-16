@@ -1,4 +1,4 @@
-### tl;dr of my life
+### tl;dr
 - building options trading interface at Robinhood
 - on a gap from college where i study machine learning and system architecture
 - prev built a multimodal entity extraction system for one of the largest insurance clients at Palantir
