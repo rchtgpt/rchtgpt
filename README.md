@@ -1,6 +1,6 @@
 ### tl;dr
-- building options trading interface at Robinhood
-- on a gap from college where i study machine learning and system architecture
+- wrapping up my degree where i study machine learning and system architecture
+- prev built the options trading interface at Robinhood
 - prev built a multimodal entity extraction system for one of the largest insurance clients at Palantir
 - enjoy sports (pickleball, ping pong, poker)
 - dabble in design ([don't open this link](https://www.behance.net/rchtgpt))
